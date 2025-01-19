@@ -2,7 +2,7 @@
 
 **Abstract:**
 
-This paper explores the application of machine learning to predict credit card approvals. Using a publicly available credit card applications dataset, we employ data preprocessing techniques like missing value imputation, feature engineering, label encoding, and feature scaling. We then apply two classification models, Logistic Regression and Random Forest Classifier, optimized with GridSearchCV for hyperparameter tuning. Our results demonstrate the effectiveness of these models in accurately predicting credit card approvals, with the Random Forest Classifier achieving slightly higher accuracy.
+Explores the application of machine learning to predict credit card approvals. Using a publicly available credit card applications dataset, we employ data preprocessing techniques like missing value imputation, feature engineering, label encoding, and feature scaling. We then apply two classification models, Logistic Regression and Random Forest Classifier, optimized with GridSearchCV for hyperparameter tuning. Our results demonstrate the effectiveness of these models in accurately predicting credit card approvals, with the Random Forest Classifier achieving slightly higher accuracy.
 
 **1. Introduction:**
 
